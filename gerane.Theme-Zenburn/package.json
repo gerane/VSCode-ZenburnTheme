@@ -2,7 +2,7 @@
 	"name": "Theme-Zenburn",
 	"displayName": "Zenburn Theme",
 	"description": "Zenburn Theme ported from the Zenburn TextMate Theme",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "gerane",
 	"engines": {
 		"vscode": "^0.10.1"
