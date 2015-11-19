@@ -1,0 +1,28 @@
+{
+	"name": "Theme-Zenburn",
+	"displayName": "Zenburn Theme",
+	"description": "Zenburn Theme ported from the Zenburn TextMate Theme",
+	"version": "0.0.1",
+	"publisher": "gerane",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.svg",
+	"homepage": "https://github.com/gerane/VSCode-ZenburnMonokaiTheme/blob/master/gerane.Theme-Zenburn/README.md",
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/gerane/VSCode-ZenburnTheme.git"
+    },
+	"contributes": {
+		"themes": [
+			{
+				"label": "Zenburn",
+				"uiTheme": "vs-dark",
+				"path": "./themes/zenburn.tmTheme"
+			}
+		]
+	}
+}
