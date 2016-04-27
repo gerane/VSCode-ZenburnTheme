@@ -5,9 +5,9 @@ A theme based on the Zenburn TextMate Theme.
 
 
 ## Screenshot
-![](https://raw.githubusercontent.com/gerane/VSCode-FlatlandMonokaiTheme/master/gerane.Theme-Zenburn/screenshot.png).
+![](https://raw.githubusercontent.com/gerane/VSCode-ZenburnTheme/master/gerane.Theme-Zenburn/screenshot.png).
 
 
 ## More Information
 * [Visual Studio Marketplace](https://marketplace.visualstudio.com/items/gerane.Theme-Zenburn).
-* [GitHub repository](https://github.com/gerane/VSCode-Zenburn).
+* [GitHub repository](https://github.com/gerane/VSCode-ZenburnTheme).
