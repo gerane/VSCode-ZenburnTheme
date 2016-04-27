@@ -2,7 +2,7 @@
 	"name": "Theme-Zenburn",
 	"displayName": "Zenburn Theme",
 	"description": "Zenburn Theme ported from the Zenburn TextMate Theme",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "gerane",
 	"engines": {
 		"vscode": "^0.10.1"
@@ -10,7 +10,7 @@
 	"categories": [
 		"Themes"
 	],
-	"icon": "icon.svg",
+	"icon": "icon.png",
 	"homepage": "https://github.com/gerane/VSCode-ZenburnMonokaiTheme/blob/master/gerane.Theme-Zenburn/README.md",
 	"repository": {
         "type": "git",
