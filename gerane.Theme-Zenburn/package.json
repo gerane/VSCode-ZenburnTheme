@@ -11,7 +11,7 @@
 		"Themes"
 	],
 	"icon": "icon.png",
-	"homepage": "https://github.com/gerane/VSCode-ZenburnMonokaiTheme/blob/master/gerane.Theme-Zenburn/README.md",
+	"homepage": "https://github.com/gerane/VSCode-ZenburnTheme/blob/master/gerane.Theme-Zenburn/README.md",
 	"repository": {
         "type": "git",
         "url": "https://github.com/gerane/VSCode-ZenburnTheme.git"
